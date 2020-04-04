@@ -1,7 +1,7 @@
 #!/usr/bin/env bash 
-# Copyright 2020 (c) all rights reserved 
-# by BuildAPKs https://buildapks.github.io
-#####################################################################
+# Copyright 2019-2020 (c) all rights reserved by BuildAPKs; see LICENSE 
+# https://buildapks.github.io
+################################################################################
 set -Eeuo pipefail
 shopt -s nullglob globstar
 . "$RDR"/scripts/bash/shlibs/trap.bash 210 211 212
