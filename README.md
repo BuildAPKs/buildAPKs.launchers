@@ -9,7 +9,9 @@ Android APK launcher sources that build in [Termux](https://github.com/termux) i
 
    curl -O https://raw.githubusercontent.com/BuildAPKs/buildAPKs/master/setup.buildAPKs.bash
 
-   ~/buildAPKs/scripts/bash/build/build.launchers.bash
+   bash setup.buildAPKs.bash
+
+   build.launchers.bash
 
 ```
 Enjoy!
